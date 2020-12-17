@@ -11,7 +11,7 @@ How to choose the HTML elements (rus/eng):
 * http://css-live.ru/wp-content/uploads/2012/07/html5-flowchart-ru.png
 * http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
 
-Useful tools to explore the different themes in the CSS
+Useful tools to explore the different topics in CSS
 * https://bennettfeely.com/
 
 https://github.com/you-dont-need/You-Dont-Need-JavaScript#FancyMenu \
@@ -31,7 +31,14 @@ Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 Build Responsive Real World Websites with HTML5 and CSS3
 * https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
 
+JONAS' resources for building beautiful websites with HTML, CSS and JavaScript
+* http://codingheroes.io/resources/
 
+Markup Validation Service
+* https://validator.w3.org/
+
+CSS Reference - An extensive CSS reference with all the important properties and info to learn CSS from the basics
+* http://tympanus.net/codrops/css_reference/#section_css-at-rule
 
 ## BEM
 Methodology BEM was invented at Yandex to develop sites which should be launched fast and supported for a long time. It helps to create extendable and reusable interface components.
@@ -83,4 +90,5 @@ Flexbox Froggy - A game for learning CSS flexbox:
 // here will be Briefly basic concepts
 
 
+# CSS* properties
 
