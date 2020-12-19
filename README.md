@@ -79,6 +79,7 @@ Useful links for documentation (rus/eng):
 
 ## Reset & Normalize & Autoprefixer
 * https://autoprefixer.github.io/
+* http://necolas.github.io/normalize.css/
 * https://github.com/necolas/normalize.css/
 * https://cssreset.com/scripts/eric-meyer-reset-css/
 
@@ -90,5 +91,36 @@ Flexbox Froggy - A game for learning CSS flexbox:
 // here will be Briefly basic concepts
 
 
-# CSS* properties
+# CSS* common features
 
+## Units
+em, px, rem, vh, vw, vmin, vmax
+
+## Properties
+#### Layout
+
+#### Padding, Borders and Margins
+
+#### Text
+
+#### Backgrounds
+
+#### Animations
+
+#### Tables
+
+## Pseudo-classes
+
+## Pseudo-elements
+
+## Combinators
+
+## Functions
+
+## @rule's
+
+## Data Types
+
+## Colors
+
+# How To
