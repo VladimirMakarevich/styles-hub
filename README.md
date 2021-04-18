@@ -37,9 +37,14 @@ JONAS' resources for building beautiful websites with HTML, CSS and JavaScript
 Markup Validation Service
 * https://validator.w3.org/
 
+Train CSS selectors
+* https://flukeout.github.io/
+
 CSS Reference - An extensive CSS reference with all the important properties and info to learn CSS from the basics
 * http://tympanus.net/codrops/css_reference/#section_css-at-rule
 * https://css-tricks.com/almanac/
+* https://www.internetingishard.com/html-and-css/
+* https://ru.code-basics.com/languages/css
 
 ## BEM
 Methodology BEM was invented at Yandex to develop sites which should be launched fast and supported for a long time. It helps to create extendable and reusable interface components.
